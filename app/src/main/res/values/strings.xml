@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">crocusoft_mova</string>
+    <string name="createAccount">Create Your Account</string>
+    <string name="remember">Remember me</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="password"> Password </string>
+    <string name="already">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login">Login to Your Account</string>
+    <string name="donthave">Don’t have an account?</string>
+    <string name="forgot">Forgot the password?</string>
+    <string name="welcome">Welcome to Mova</string>
+    <string name="splash_description">The best movie streaming app of the century to make your days great!</string>
+    <string name="get_started">Get Started</string>
+    <string name="lets_in">Let’s you in</string>
+    <string name="continue_facebook">Continue with Facebook</string>
+    <string name="continue_google">Continue with Google</string>
+    <string name="continue_apple">Continue with Apple</string>
+    <string name="sign_password">Sign in with password</string>
+    <string name="choose_interest">Choose Your Interest</string>
+    <string name="choose_interest_description">Choose your interests and get the best movie recommendations. Don\'t worry, you can always change it later.</string>
+    <string name="top_movies">Top 20 Movies This Week</string>
+    <string name="new_releases">New Releases</string>
+    <string name="skip">Skip</string>
+    <string name="btn_continue">Continue</string>
+    <string name="fill_profile">Fill Your Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="nick_name">Nickname</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="create_new_pin">Create New PIN</string>
+    <string name="new_pin_description">Add a PIN number to make your account
+more secure.</string>
+    <string name="enter_pin">Enter your PIN number to continue</string>
+    <string name="play">Play</string>
+    <string name="my_list">My List</string>
+    <string name="search">Search</string>
+    <string name="not_found">Not Found</string>
+    <string name="not_found_description">Sorry, the keyword you entered could not be found. Try to check again or search with other keywords.</string>
+
+    <string name="empty_list">Your List is Empty</string>
+    <string name="empty_list_description">It seems that you haven\'t added
+any movies to the list</string>
+    <string name="download">Download</string>
+    <string name="empty_download">Download List is Empty</string>
+    <string name="empty_download_description">It seems that you haven\'t downloaded
+any movies yet</string>"
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="security">Security</string>
+    <string name="help_center">Help Center</string>
+    <string name="notification">Notification</string>
+    <string name="splash_first_title">Welcome to Mova</string>
+    <string name ="splash_first_description">The best movie streaming app of the century to make your days great!</string>
+    <string name="log_out">Log out</string>
+    <string name="change_language">Language</string>
+    <string name="mode">Mode</string>
+    <string name="top_searches">Top Searches</string>
+    <string name="sort_filter">Sort &amp; Filter</string>
+    <string name="reset">Reset</string>
+    <string name="apply">Apply</string>
+    <string name="language">Language</string>
+    <string name="suggested">Suggested</string>
+    <string name="categories">Categories</string>
+    <string name="regions">Regions</string>
+    <string name="genres">All Genres</string>
+    <string name="time">Time/Periods</string>
+    <string name="sorts">Sorts</string>
+    <string name="movie">Movie</string>
+    <string name="tv">Tv</string>
+    <string name="k_drama">K-Drama</string>
+    <string name="anime">Anime</string>
+    <string name="all_regions">All Regions</string>
+    <string name="all_genres">All Genres</string>
+    <string name="all_periods">All Periods</string>
+    <string name="popularity">Popularity</string>
+    <string name="latest_release">Latest Release</string>
+    <string name="trailers">Trailers</string>
+    <string name="more_like_this">More Like This</string>
+    <string name="comments">Comments</string>
+    <string name="no_trailers">No Trailers</string>
+    <string name="no_similar_movies">No Similar Movies</string>
+    <string name="no_comments">Comments coming soon…</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="language_english">English</string>
+    <string name="language_azerbaijani">Azerbaijani</string>
+    <string name="language_turkish">Turkish</string>
+    <string name="language_russian">Russian</string>
+
+
+
+
+</resources>
